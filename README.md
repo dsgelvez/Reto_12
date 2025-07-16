@@ -2,7 +2,6 @@
 
 Este reto incluye ejercicios que usan diccionarios, archivos JSON y consumo de APIs.
 
----
 
 ## Punto 1: Imprimir valores de un diccionario en orden ascendente
 
@@ -10,7 +9,6 @@ Se creó una función que recibe un diccionario y muestra sus valores ordenados 
 
 **Archivo:** `diccionario_ordenado.py`
 
----
 
 ## Punto 2: Mezclar dos diccionarios
 
@@ -19,7 +17,6 @@ Si hay claves repetidas, se mantiene el valor del primer diccionario.
 
 **Archivo:** `mezclar_diccionarios.py`
 
----
 
 ## Punto 3: Leer y filtrar desde JSON
 
@@ -31,7 +28,6 @@ Usando el archivo `personas.json`, el programa:
 **Archivo:** `filtrar_personas.py`  
 **Datos:** `personas.json`
 
----
 
 ## Punto 4: Conexión con APIs
 
@@ -43,7 +39,6 @@ Se conectaron 3 APIs públicas y se imprimieron los pares `clave: valor` de cada
 
 **Archivo:** `APIS.py`
 
----
 
 ## Punto 5: Análisis de alertas climáticas (JSON)
 
